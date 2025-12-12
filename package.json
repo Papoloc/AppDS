@@ -1,0 +1,9 @@
+﻿{
+  "name": "my-app",
+  "version": "1.0.0",
+  "description": "Simple Node.js HTTP server for GitHub Actions SSH deploy demo",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
